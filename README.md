@@ -25,7 +25,7 @@
 17 Variational autoencoders 326  
 18 Diffusion models 348  
 19 Reinforcement learning 373  
-20 Why does deep learning work? 401
+20 Why does deep learning work? 401  
 21 Deep learning and ethics 420  
 A Notation 436  
 B Mathematics 439  
